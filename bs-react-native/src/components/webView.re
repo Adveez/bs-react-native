@@ -1,4 +1,4 @@
-[@bs.module "react-native"] external view: ReasonReact.reactClass = "WebView";
+[@bs.module "react-native-web-view"] external view: ReasonReact.reactClass = "WebView";
 
 module EventTypes = {
   [@bs.deriving abstract]
